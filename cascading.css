@@ -1,0 +1,30 @@
+
+div p{
+    color:aqua;
+}
+
+div p{
+    color:blue;
+}
+div+p{
+    color:yellow;
+}
+div~p{
+    color:red;
+}
+ul{
+ list-style-type: none;
+}
+.nav{
+    list-style-type: none;
+    margin:0;
+    padding:2px;
+    color:white;
+    background-color: black;
+}
+li{
+    margin:0;
+    padding:2px;
+    color:white;
+    background-color: black;
+}
